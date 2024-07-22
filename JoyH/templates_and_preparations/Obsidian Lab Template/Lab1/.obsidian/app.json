@@ -1,0 +1,11 @@
+{
+  "defaultViewMode": "preview",
+  "legacyEditor": false,
+  "readableLineLength": false,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./attachments",
+  "showFrontmatter": true
+}

@@ -1,0 +1,10 @@
+{
+  "fileDirections": {
+    "Bug Bounty/Server-Side Template Injection (SSTI).md": "auto"
+  },
+  "defaultDirection": "auto",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "statusBar": true
+}

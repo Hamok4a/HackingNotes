@@ -1,0 +1,14 @@
+{
+  "workLen": 30,
+  "breakLen": 6,
+  "autostart": false,
+  "useStatusBarTimer": false,
+  "notificationSound": true,
+  "customSound": "/home/elsadek/Downloads/TATE/Evil_Laugh.mp3",
+  "logFile": "DAILY",
+  "logPath": "",
+  "logLevel": "ALL",
+  "logTemplate": "",
+  "logFormat": "VERBOSE",
+  "useSystemNotification": true
+}

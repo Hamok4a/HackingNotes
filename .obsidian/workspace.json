@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "8b820e4648fb249f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5b6bf14da6cb169",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "653432680e8a538c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Methodologies/Bug Hunting Methodologies/Salamy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b67da93f37574e36",
+    "type": "split",
+    "children": [
+      {
+        "id": "82414387c390f1d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2dcc7123b915499",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14e8d97f84599911",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc7bfbe28bc70046",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f12052f005fc103c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad7959c758e3805a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66df70a82e6c0282",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Methodologies/Bug Hunting Methodologies/Salamy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "281b70dd5bff8cd9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Methodologies/Bug Hunting Methodologies/Salamy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c03cf446670ebe52",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd8a1dcad3fd0e62",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Methodologies/Bug Hunting Methodologies/Salamy.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-importer:Open Importer": false,
+      "remotely-save:Remotely Save": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "653432680e8a538c",
+  "lastOpenFiles": [
+    "Resources.md",
+    "Methodologies/Bug Hunting Methodologies/Salamy.md",
+    "Sec-88/web-appsec/reconnaissance/attacking-organizations-with-big-scopes.md",
+    "Sec-88/web-appsec/reconnaissance/README.md",
+    "Sec-88/web-appsec/protection/security-mechanisms-for-websites.md",
+    "Sec-88/web-appsec/protection/cookie-flags.md",
+    "Sec-88/web-appsec/protection/README.md",
+    "Sec-88/web-appsec/oauth-misconfigurations/oauth-to-ato.md",
+    "Sec-88/web-appsec/oauth-misconfigurations/oauth-2.0-basics.md",
+    "Sec-88/web-appsec/oauth-misconfigurations/README.md",
+    "Sec-88/web-appsec/improper-authentication/jwt-security.md",
+    "Sec-88/web-appsec/improper-authentication/README.md",
+    "Sec-88/web-appsec/features-abuse/social-sharing.md",
+    "Sec-88/web-appsec/features-abuse/rich-editor-text.md",
+    "Sec-88/web-appsec/features-abuse/review.md",
+    "Sec-88/web-appsec/features-abuse/reset-password.md",
+    "Sec-88/web-appsec/features-abuse/registration.md",
+    "Sec-88/web-appsec/features-abuse/profile-settings.md",
+    "Sec-88/web-appsec/features-abuse/newsletter.md",
+    "Sec-88/web-appsec/features-abuse/money-related-features.md",
+    "Sec-88/web-appsec/features-abuse/messaging-features.md",
+    "Sec-88/web-appsec/features-abuse/inviting.md",
+    "Sec-88/web-appsec/features-abuse/file-upload.md",
+    "Sec-88/web-appsec/features-abuse/contact-us.md",
+    "Sec-88/web-appsec/features-abuse/commenting.md",
+    "Sec-88/web-appsec/features-abuse/captcha.md",
+    "Sec-88/web-appsec/reconnaissance",
+    "Sec-88/web-appsec/protection",
+    "Sec-88/web-appsec/oauth-misconfigurations",
+    "Sec-88/web-appsec/improper-authentication",
+    "Sec-88/web-appsec/features-abuse",
+    "Sec-88/web-appsec/csrf",
+    "Sec-88/web-appsec/cors",
+    "Sec-88/web-appsec/cms",
+    "Sec-88/web-appsec/broken-access-control",
+    "Sec-88/web-appsec"
+  ]
+}

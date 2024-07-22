@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "1f5b68e0c04394ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "15fd99124be923b0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "OSCP/DMZ/Machine4.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a8faa36e75390e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9adaf847b0a21469",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1caed8dd8fc6e4c9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad91003d7ed5a447",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ddad7fa37da7ecc0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a427ffd501f95726",
+    "type": "split",
+    "children": [
+      {
+        "id": "616bdb3d4803586b",
+        "type": "tabs",
+        "dimension": 54.17495029821073,
+        "children": [
+          {
+            "id": "8358dec3296b0d38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OSCP/DMZ/Machine4.md"
+              }
+            }
+          },
+          {
+            "id": "4d2089b5a988c459",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "90aeb50e85623218",
+        "type": "tabs",
+        "dimension": 45.82504970178927,
+        "children": [
+          {
+            "id": "0d451e3d64f31adf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OSCP/DMZ/Machine4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5abcde66d7480a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OSCP/DMZ/Machine4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "ea4d667d7601cfb6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "OSCP/DMZ/Machine4.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224423,
+                  "close": false
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 431
+  },
+  "active": "15fd99124be923b0",
+  "lastOpenFiles": [
+    "OSCP/DMZ/Machine4.md",
+    "OSCP/DMZ/Machine3.md",
+    "OSCP/DMZ/Machine2.md",
+    "OSCP/DMZ/Machine1.md",
+    "Test/Test1.md",
+    "Test/Test4.md",
+    "Test/Test3.md",
+    "Test/Test2.md",
+    "OSCP/Net3/Machine11.md",
+    "OSCP/Net2/Machine14.md"
+  ]
+}

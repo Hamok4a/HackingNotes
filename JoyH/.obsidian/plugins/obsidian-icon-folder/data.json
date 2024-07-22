@@ -1,0 +1,46 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 21,
+    "emojiStyle": "none",
+    "iconColor": "#ffffff",
+    "recentlyUsedIcons": [
+      "CiVimPlain",
+      "CiPythonOriginal",
+      "CiGoOriginal",
+      "CiGoLine",
+      "CiJavascriptOriginal",
+      "CiLinuxPlain",
+      "CiLinuxOriginal",
+      "CiGoOriginalWordmark",
+      "CiBashOriginal"
+    ],
+    "recentlyUsedIconsSize": 10,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 9,
+      "bottom": 0,
+      "left": -8
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "Bash": {
+    "iconName": "CiBashOriginal",
+    "iconColor": "#ffffff"
+  },
+  "GO": {
+    "iconName": "CiGoOriginal",
+    "iconColor": "#fcfcfc"
+  },
+  "Linux": "CiLinuxPlain",
+  "JS": "CiJavascriptOriginal",
+  "PY": "CiPythonOriginal",
+  "VIM": "CiVimPlain",
+  "VIM/Vim Guide.md": "CiVimPlain"
+}

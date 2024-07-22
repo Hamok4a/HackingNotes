@@ -1,0 +1,21 @@
+{
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "_Images",
+  "tabSize": 4,
+  "showUnsupportedFiles": false,
+  "vimMode": false,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "livePreview": true,
+  "rightToLeft": false,
+  "spellcheck": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 55
+  }
+}

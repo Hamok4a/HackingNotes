@@ -1,0 +1,388 @@
+{
+  "main": {
+    "id": "3f289e2513440e8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "43f83cad4a9d0358",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b748f66413bc96c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amr_meMethodology_recon/My Recon Methodology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33ee847d6d70e02d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.2"
+              }
+            }
+          },
+          {
+            "id": "4543cdbaf38b9c58",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
+            "id": "97da43fe4c0c3f6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amr_meMethodology_recon/bbot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a250f2aefd2ef36d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notion/Bug Hunting/LabsSolved.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5320c3957fc8516",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dcdd2662049b176",
+        "type": "tabs",
+        "dimension": 66.77740863787376,
+        "children": [
+          {
+            "id": "15f4174dff278327",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78d3d0750acedb6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "15413d29db0cf82e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "auto",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "200bce8e46d1ce2f",
+        "type": "tabs",
+        "dimension": 33.222591362126245,
+        "children": [
+          {
+            "id": "85b5d54be33d9404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notion/Bug Hunting/Reflected XSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 462.50618982315063
+  },
+  "right": {
+    "id": "116d10795b10b923",
+    "type": "split",
+    "children": [
+      {
+        "id": "d25481119b1be805",
+        "type": "tabs",
+        "dimension": 61.49162861491628,
+        "children": [
+          {
+            "id": "e2a1ee4d043e6cac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e378165d03a6c78c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Amr_meMethodology_recon/My Recon Methodology.md"
+              }
+            }
+          },
+          {
+            "id": "a4dd65fb7a2dea4f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b62d276c4531b5ac",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f108e08566859ae",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d496d45c05e61fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Amr_meMethodology_recon/My Recon Methodology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9348d539464e2fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Amr_meMethodology_recon/My Recon Methodology.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c93a8e6b63abd40",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "c870ddab664552d3",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8cbae905fa8abf6",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Amr_meMethodology_recon/My Recon Methodology.md"
+              }
+            }
+          },
+          {
+            "id": "c70c87eab341f63a",
+            "type": "leaf",
+            "state": {
+              "type": "code-execute-manage-executors",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 9
+      },
+      {
+        "id": "ebd7a16d27ea1aa9",
+        "type": "tabs",
+        "dimension": 38.50837138508371,
+        "children": [
+          {
+            "id": "50974a897b66a74d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Amr_meMethodology_recon/My Recon Methodology.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -0.7,
+                  "nodeSizeMultiplier": 1.06979166666667,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.619791666666667,
+                  "repelStrength": 10.625,
+                  "linkStrength": 0.416666666666667,
+                  "linkDistance": 260,
+                  "scale": 0.4444444444444444,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 352.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "workspaces:Manage workspace layouts": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-importer:Open Importer": false,
+      "remotely-save:Remotely Save": false,
+      "improved-random-note:Open improved random note": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "4543cdbaf38b9c58",
+  "lastOpenFiles": [
+    "methodologies/Modern_Adversarial_Recon.md",
+    "Amr_meMethodology_recon/Modern Adversarial Recon.md",
+    "Amr_meMethodology_recon/bbot.md",
+    "Notion/Bug Hunting/THE BUG hunter’s METHODOLOGY/Zanusi methodology/Content Discovery Recon.md",
+    "Amr_meMethodology_recon/My Recon Methodology.md",
+    "Amr_meMethodology_recon/Pentesting Roadmap.canvas",
+    "Notion/Bug Hunting/Reflected XSS.md",
+    "Notion/Bug Hunting/CORS.md",
+    "Notion/Bug Hunting/LabsSolved.md",
+    "_images/Pasted image 20240605160540.png",
+    "Notion/Bug Hunting/Cross-Origin Resource Sharing (CORS) Complete Guide  RaniaKhalil.md",
+    "_images/Pasted image 20240605152449.png",
+    "_images/Pasted image 20240605152223.png",
+    "_images/Pasted image 20240605152044.png",
+    "_images/Pasted image 20240605151849.png",
+    "Notion/Bug Hunting/SOP.md",
+    "Notion/Bug Hunting/Exceptions to SOP.md",
+    "Notion/Bug Hunting/Allows cross-origin loading of resources like images, media, and scripts but restricts JavaScript from reading these resources' contents..md",
+    "Notion/Bug Hunting/Labs extra information.md",
+    "Notion/Bug Hunting/Bug Hunting.md",
+    "Notion/Bug Hunting/linked in connector auto via console.md",
+    "Notion/My Bug Hunting Methodology.md",
+    "Notion/Bug Hunting/Server Side Attacks/Server Side Attacks.md",
+    "Notion/Bug Hunting/Server Side Template Injection ssti.md",
+    "Notion/Bug Hunting/Web Requests/Web Requests.md",
+    "Notion/Bug Hunting/SQLMAP ESSENTIALS/SQLMAP ESSENTIALS.md",
+    "Hacking books/Bug Bounty Bootcamp The Guide to Finding and Reporting Web Vulnerabilities by Vickie Li.pdf",
+    "Hacking books/XSS Cheat Sheet.pdf",
+    "Untitled 1.md",
+    "visionary here.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "tyler @sorcata  @bugcrowd.com/Untitled 2.md",
+    "tyler @sorcata  @bugcrowd.com/Untitled 1.md",
+    "tyler @sorcata  @bugcrowd.com/Untitled.md",
+    "Amr_meMethodology_recon",
+    "verrrrrrry good stuff",
+    "_images/Pasted image 20240327050806.png",
+    "_images/Pasted image 20240327050204.png",
+    "tyler @sorcata  @bugcrowd.com",
+    "_images/Pasted image 20240323232914.png",
+    "_images/Pasted image 20240323232850.png",
+    "_images/Pasted image 20231105163733.png",
+    "Hacking books/wstg-v4.2.pdf",
+    "Hacking books/Web Application Hacking Advanced SQL Injection and Data Store Attacks.pdf",
+    "Hacking books/The Web Application Hackers Handbook Discovering And Exploiting.pdf",
+    "Hacking books/The Web Application Hacker's Handbook_ Finding and Exploiting Security Flaws.pdf",
+    "Hacking books/Web Hacking 101.pdf",
+    "Notion/Bug Hunting/THE BUG hunter’s METHODOLOGY/Zanusi methodology/Zseanos Methodology.canvas",
+    "Linux/System Management.canvas",
+    "Methodology/Zseanos Methodology/Zseanos Methodology.canvas",
+    "Bug Bounty/Modern Adversarial Recon.canvas",
+    "Bug Bounty/Modern Adversarial Recon-0.canvas",
+    "Untitled 1.canvas",
+    "Bug Bounty/File Upload Attack.canvas",
+    "Bug Bounty/Bug Bounty Resources.canvas"
+  ]
+}

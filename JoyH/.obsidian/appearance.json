@@ -1,0 +1,12 @@
+{
+  "accentColor": "#73ddf7",
+  "baseFontSize": 18,
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "tableStyles",
+    "dashboard",
+    "media-grid-snippet-impor",
+    "media-grid-snippet"
+  ]
+}
